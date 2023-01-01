@@ -1,52 +1,94 @@
 ---
 layout: custom
-title: Francisco Chiang
+title: Jordan Beres 
 permalink: /
 ---
 
-# Francisco Chiang
+# Jordan Beres  
 **Berlin, Germany**\
-[mail@fchiang.com](mailto:mail@fchiang.com)\
-[Website](https://www.fchiang.com) • [Linkedin](https://www.linkedin.com/in/francisco•chiang/) • [Github](https://github.com/chicochico) • [PGP](https://github.com/chicochico.gpg)
+[jordan.beres@protonmail.com](mailto:jordan.beres@protonmail.com)\
+[Website](https://www.jordan-beres.com) • [Linkedin](https://www.linkedin.com/in/jordanberes/) • [Github](https://github.com/adam-worth) • [PGP](https://github.com/adam-worth.gpg)
 
-With a BS in Computer Science, started the career building a FOREX trading platform for an exchange bank to facilitate international business in Brazil. Worked in a German loan comparison platform, scaling marketing with technology, building automation tools to automatically optimize campaigns, creating infrastructures and pipelines to ingest and process customer journey and online marketing data. Currently working at a German bank with a mission to democratize financial markets.
+Started a career in Online Marketing for 4 years before switching into Analytics / BI for 2 years and now currently work in Engineering. Worked in various business verticles including Sass and Fintech. Currently working at a German bank with a mission to democratize financial markets.
 
 ## Skills
-**Tech**: Python, Elixir, Javascript, SQL, Pandas, Python Click, Pytest, Django, Python Requests, Fast API, Docker, Kubernetes, AWS, Airflow, Superset, Git, CI/CD, Terraform, Tornado, QuickFIX, Postgres, Bootstrap\
+**Tech**: Python, Javascript, SQL, Pandas, Python Click, Pytest, Docker, Kubernetes, AWS, Airflow, Superset, Git, CI/CD, Terraform, Postgres, HTML / CSS\
 **Engineering**: Software Design and Engineering , Data Engineering, Agile Development\
-**Languages**: English, Portuguese, Spanish and Chinese
+**Languages**: English, and German (B1) 
 
 ## Experience
 **Trade Republic Bank GmbH, Berlin DE**\
-**Apr 2022 - Present • Full stack Software Engineer**\
-Supporting growth as part of the Growth team.
+**Jan 2022 - Present • Full Stack Engineer II**\
+Currently I work for Trade Republic where I work as a full stack engineer within the marketing tech team. Some of my responsibilities include:
+- Working on the implementation of our Customer Data Platform (CDP) within the company while also setting up our CRM tool
+- Architectural design to stream data into CDP (written in Terraform and deployed in AWS)
+- Writing lambda functions to transform and send data to CDP (Python + AWS)
+- Creating implementation and migration strategies for CDP and CRM tools
+- Managing external stakeholders and dependencies
+- Creating documentation around the project as well as presenting to external teams
+- Creation of in-app messaging templates (CSS & HTML)
+
+**Gymondo GmbH, Berlin DE**\
+**Oct 2020 - December 2021 • Senior Marketing Intelligence Manager**\
+I worked for Gymondo, where I am charged with maintaining and developing our marketing reporting infrastructure. Some of my duties / responsibilities included:
+- Setting up tracking pixels through Google Tag Manager for marketing channels
+- Rewriting the marketing attribution logic
+- Getting data from marketing apis, pulling them into the DWH, and building reports for the teams
+- Work closely with COO and CMO in order to scope out projects and potential improvements in our reporting / infrastructure
+- Rebuilding of data infrastructure along with fellow data engineer
+- Investigate data collection processes for both web and app products
+- Work closely with other data analysts for code sparring as well as being another set of eyes on different analyses they work on
 
 **Smava GmbH, Berlin DE**\
-**Sep 2018 - March 2022 • Software/Data Engineer**\
-Applying tech and engineering to solve marketing problems.
-- Product Owner and Tech Lead for the Marketing Tech team
-- Data pipelines for marketing data processing using Python, Docker, Airflow and SQL
-- Automation tools with Python, Django, Postgres deployed to Kubernetes and AWS with Terraform
-- Deployment of data infrastructures to support marketing analytics: Airflow, Superset
+**December 2017 - Sept 2020 • Senior Marketing Analyst (Python & SQL)**\
+I worked at Smava GmbH where I was with our SEA marketing team (one and a half years) and then shifted into our Marketing Analytics team. Here I analyzed the performance of various marketing teams, communicated the findings to team leads, built reports, as well as found technical solutions to problems they face. Some of my achievements:
+- Mentoring and training junior and intern level teammates, as well as, scoping out projects for them and having one-on-ones
+- Implementation, development, and continuously testing our Adwords bidding algorithm where I help develop and test rules to add into our rule-based system
+- Helped grow SEA by nearly 140% year over year
+- Development of various reports, connecting to our database, joining, cleaning, and reworking data based on the team’s specifications
+- Developing an automated search query optimization solution to streamline efficiency in SEA
+- Working closely with Marketing Tech on projects, and being the “business logic” on various marketing tech projects
+- Building Affiliate, SEO, and CRM reports for the respective teams, where I collaborated with team leads to understand the most important KPIs needed for analysis
+- Combining and working with large datasets as well as cleaning them to ensure accurate reporting
+- Setting up workflows and standards within the marketing analytics team to ensure our code is well maintained
+- Doing analyses for C-level stakeholders, providing them insights into our marketing performance (including developing the monthly planning of our marketing spend which reaches into the 7 figures)
+- Held weekly workshops with colleagues who have a keen interest in learning Python & Git
+- Set up a tracking generator for our Ecrm team (built through Google Forms and Google Sheets)
 
-**Udacity, Mountain View CA**\
-**Mar 2018 - Jun 2018 • Mentor and Project Reviewer**\
-Mentor and Project reviewer for students of Flying Car Nano-degree course.
+**Amboss GmbH, Berlin DE**\
+**Jun 2017 - December 2017 • Online Marketing Manager**\
+I worked for Amboss GmbH where I was in charge of marketing activities across all channels for the US as well as some channels aimed towards our global markets. Some of my duties and achievements included:
+- Established tracking system with BI to ensure accurate reporting for all marketing activities
+- Created new organizational systems to increase workflows and cooperation between departments
+- Created an auto mailing system to send transactional emails as our current system was under development (done via google sheets and email accounts with Google Scripts)
+- Researched and implemented new advertising channels (Outbrain, Taboola, RTB, etc.)
+- Ran and built Facebook and Adwords accounts for global audiences 
+- Wrote Adwords automation scripts for bid adjustments, and reporting
 
-**Spetcial Inc, San Francisco CA**\
-**May 2016 - Dec 2017 • Software Engineer**\
-Full stack development with Elixir and React/Native.
+**Spark Networks, Berlin DE**\
+**Jun 2016 - Jun 2017 • Junior Programmatic Manager EN Markets**\
+During my time at Spark, I worked mainly in their programmatic team where I was in charge of SEM, GDN, and RTB for several of our main English speaking markets. The countries I have worked with include: US, Canada, Australia, New Zealand, South Africa, and the UK. My duties included:
+- Execute tests, collect and analyze data, identifying trends and insights to maximize ROI
+- Optimize ad copy, image based ads, and landing pages
+- Developing weekly analysis on performance, actions/optimizations taken, and all as future actions and plans
+- Increased revenue in the US by 30% while also decreasing our costs by 38%
+- Working in DCM and DBM platforms to deliver RTB ads
 
-**MSBANK, Curitiba PR**\
-**Jan 2015 - Mar 2017 • Software Engineer**\
-Design and implementation of B2B forex trading platform.
-- Trading platform with order execution in multiple brokers using: Python Tornado, QuickFIX, Postgres, Bootstrap, HTML5 and Javascript
-- Back-office tool for monitoring and controlling the platform
-- Market data redistribution API
+**Auto1 Group, Berlin DE**\
+**Jan 2016 - Jun 2016 • Junior Online Marketing Manager**\
+At Auto1 I worked on CRM mailings sent to potential customers. I was also the junior online marketing manager for the US market, working closely with the SEM, Facebook, GDN, CRO, Display, and Product teams to continue our growth in this competitive market place.
 
 ## Education
-**UNIOESTE, Foz do Iguaçu PR**\
-**2010 - 2014 • Bachelor of Computer Science**
-- Undergraduate research: Web technologies applied in education
-- Internship: Interactive web video player for applications in language learning
-- Final paper: Signal Processing for Guitar Music Transcription
+**University of St. Andrews, St. Andrews UK**\
+**2013 - 2014 • Postgraduate Diploma, Modern History**
+Activities and societies:
+- Men's Football Club
+
+**University of Wisconsin-Milwaukee, Milwaukee WI**\
+**2009 - 2013 • Bachelor of Arts - History**
+Honors & Awards:
+- Honors College Graduate: min 3.6 GPA or higher + completed honors college course requirements
+- Victor Greene Undergraduate Research Award Nominee
+- Golden Key Honors Society
+- Graduation with Honors: min 3.5 GPA or higher
+- Phi Kappa Phi Honors Society
