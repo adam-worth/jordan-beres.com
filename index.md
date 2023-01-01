@@ -9,7 +9,7 @@ permalink: /
 [jordan.beres@protonmail.com](mailto:jordan.beres@protonmail.com)\
 [Website](https://www.jordan-beres.com) • [Linkedin](https://www.linkedin.com/in/jordanberes/) • [Github](https://github.com/adam-worth) • [PGP](https://github.com/adam-worth.gpg)
 
-Started a career in Online Marketing for 4 years before switching into Analytics / BI for 2 years and now currently work in Engineering. Worked in various business verticles including Sass and Fintech. Currently working at a German bank with a mission to democratize financial markets.
+Started a career in Online Marketing for 4 years before switching into Analytics / BI for 2 years and now currently work in Engineering. Worked in various business verticles including SaaS and Fintech. Currently working at a German bank with a mission to democratize financial markets.
 
 ## Skills
 **Tech**: Python, Javascript, SQL, Pandas, Python Click, Pytest, Docker, Kubernetes, AWS, Airflow, Superset, Git, CI/CD, Terraform, Postgres, HTML / CSS\
