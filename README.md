@@ -1,6 +1,7 @@
-# fchiang.com
+# jordan-beres.com
 
 The code for my [website](https://www.jordan-beres.com) built with jekyll.
+Cloned and recreated with my information based off of [chicochico's](https://github.com/chicochico/fchiang.com) project.
 
 ## Running locally
 Build:
