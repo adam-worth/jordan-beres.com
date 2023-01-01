@@ -12,9 +12,7 @@ permalink: /
 Started a career in Online Marketing for 4 years before switching into Analytics / BI for 2 years and now currently work in Engineering. Worked in various business verticles including SaaS and Fintech. Currently working at a German bank with a mission to democratize financial markets.
 
 ## Skills
-**Tech**: Python, Javascript, SQL, Pandas, Python Click, Pytest, Docker, Kubernetes, AWS, Airflow, Superset, Git, CI/CD, Terraform, Postgres, HTML / CSS\
-
-**Engineering**: Software Design and Engineering , Data Engineering, Agile Development\
+**Tech**: Python, Javascript, SQL, Pandas, Python Click, Pytest, Docker, Kubernetes, AWS, Airflow, Superset, Git, CI/CD, Terraform, Postgres, HTML / CSS
 
 **Languages**: English, and German (B1) 
 
