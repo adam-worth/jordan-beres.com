@@ -13,7 +13,9 @@ Started a career in Online Marketing for 4 years before switching into Analytics
 
 ## Skills
 **Tech**: Python, Javascript, SQL, Pandas, Python Click, Pytest, Docker, Kubernetes, AWS, Airflow, Superset, Git, CI/CD, Terraform, Postgres, HTML / CSS\
+
 **Engineering**: Software Design and Engineering , Data Engineering, Agile Development\
+
 **Languages**: English, and German (B1) 
 
 ## Experience
