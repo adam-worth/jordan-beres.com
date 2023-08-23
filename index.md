@@ -18,8 +18,8 @@ Started a career in Online Marketing for 4 years before switching into Analytics
 
 ## Experience
 **Trade Republic Bank GmbH, Berlin DE**\
-**Jan 2022 - Present • Full Stack Engineer II**\
-Currently I work for Trade Republic where I work as a full stack engineer within the marketing tech team. Some of my responsibilities include:
+**Jan 2022 - Present • Engineer II**\
+Currently I work for Trade Republic where I work as an engineer within the Data Platform team. Some of my responsibilities include:
 - Working on the implementation of our Customer Data Platform (CDP) within the company while also setting up our CRM tool
 - Architectural design to stream data into CDP (written in Terraform and deployed in AWS)
 - Writing lambda functions to transform and send data to CDP (Python + AWS)
@@ -27,6 +27,9 @@ Currently I work for Trade Republic where I work as a full stack engineer within
 - Managing external stakeholders and dependencies
 - Creating documentation around the project as well as presenting to external teams
 - Creation of in-app messaging templates (CSS & HTML)
+- Working with AWS and Terraform to provide data streaming solutions to the data analytics team
+- Scoping, launching, and maintaining data applications such as Datahub, DBT, Airflow, amongst others
+
 
 **Gymondo GmbH, Berlin DE**\
 **Oct 2020 - December 2021 • Senior Marketing Intelligence Manager**\
